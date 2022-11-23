@@ -59,15 +59,6 @@ figure {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 section {
     width: 75%;
@@ -163,14 +154,20 @@ aside{
 
 #search-engine-optimization img {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 #online-reputation-management img {
     max-height: 200px;
+    float: right;
+    margin-left: 25px;
 }
 
 #social-media-marketing img {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 #search-engine-optimization h2 {

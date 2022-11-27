@@ -20,10 +20,12 @@ header h1 {
     font-size: 48px;
 }
 
+/*ensures theres a difference in these letters in the header*/
 header h1 .seo {
-    color: #d9dcd6;
+    color: #d9dcd6; 
 }
 
+/*Styling for nav bar and its contents*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -55,7 +57,7 @@ figure {
     background-position: center;
 }
 
-
+/*styling for main attribute in html code*/
 main {
     width: 75%;
     display: inline-block;
